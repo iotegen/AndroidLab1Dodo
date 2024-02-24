@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pizza_Naruto_price">В корзину за 3900</string>
+    <string name="pizza_peperoni_small_price">В корзину за 1900</string>
+    <string name="pizza_carbonaro_small_price">В корзину за 2400</string>
+    <string name="pizza_pesto_small_price">В корзину за 2700</string>
+    <string name="pizza_dod_small_price">В корзину за 2900</string>
+</resources>
